@@ -7,4 +7,7 @@
 <li>
 <a href="https://github.com/ttp-festudy/interview-study/blob/main/02.%20컴퓨터%20네트워크/OSI%207계층.md">OSI 7계층</a>
 </li>
+<li>
+<a href="https://github.com/ttp-festudy/interview-study/blob/main/02.%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP%EB%9E%80.md">TCP란</a>
+</li>
 </ul>
